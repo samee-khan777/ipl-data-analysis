@@ -7,7 +7,7 @@ A complete data exploration is performed along with highly unique and modern vis
 
 ## 🎥 Project Demo Video
 ## 🎥 Project Demo Video
-<a href="https://raw.githubusercontent.com/samee-khan777/ipl-data-analysis/main/demo.mp4" target="_blank">
+<a href="demo.mp4">
   <img src="video_thumb.png" width="800">
 </a>
 
