@@ -5,12 +5,10 @@ A complete data exploration is performed along with highly unique and modern vis
 
 ---
 
-## 📽️ **Project Demo Video**
-Here is the complete walkthrough of the project:
-
-<a href="./demo.mp4">
-    <img src="video_thumb.png" alt="Project Demo" width="800"/>
-</a>
+<video width="100%" controls>
+  <source src="https://github.com/samee-khan777/ipl-data-analysis/releases/download/v1.0/demo.mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
